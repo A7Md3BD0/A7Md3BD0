@@ -31,6 +31,7 @@
   <br>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" />
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
 </p>
 
 ### 🚀 Key Projects
@@ -42,7 +43,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a7md3bd0&show_icons=true&theme=radical" alt="Ahmed's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=A7Md3BD0&show_icons=true&theme=radical" alt="Ahmed's GitHub stats" />
 </p>
 
 ### 📫 Connect With Me
