@@ -2,7 +2,7 @@
 <h3 align="center">FCAI Student | South Valley University</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=FCAI+Student;Learning+C%2B%2B+%26+OOP;Practicing+Problem+Solving;Learning+Flutter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=FCAI+Student;Practicing+Problem+Solving" alt="Typing SVG" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A7Md3BD0&show_icons=true&theme=radical" alt="Ahmed's GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=A7Md3BD0&theme=radical&hide_border=true" alt="Ahmed's GitHub stats" />
 </p>
 
 ### 📫 Connect With Me
