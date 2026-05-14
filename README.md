@@ -46,6 +46,28 @@
   <img src="https://streak-stats.demolab.com?user=A7Md3BD0&theme=radical&hide_border=true" alt="Ahmed's GitHub stats" />
 </p>
 
+### 🧩 Codeforces Stats
+<p align="center">
+  <a href="https://codeforces.com/profile/a7md3bdo">
+    <img 
+      src="https://codeforces-stats-jet.vercel.app/api/card?username=a7md3bdo&theme=dark" 
+      alt="Ahmed's Codeforces Stats" 
+    />
+  </a>
+</p>
+
+### 📈 Codeforces Rating Graph
+<p align="center">
+  <a href="https://codeforces.com/profile/a7md3bdo">
+    <img 
+      src="https://codeforces-stats-jet.vercel.app/api/graph?username=a7md3bdo&theme=dark" 
+      alt="Ahmed's Codeforces Rating Graph" 
+    />
+  </a>
+</p>
+
+ 
+
 ### 📫 Connect With Me
 <p align="center">
   <a href="mailto:ahmed@mohamed-abdo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
